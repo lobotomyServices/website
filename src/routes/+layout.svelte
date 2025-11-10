@@ -15,9 +15,7 @@
     <a href="/">Lobotomy Services</a>
   </section>
   <section id="links" class="flex flex-col md:flex-row md:justify-self-end gap-4">
-    <a href="/">Lobotomy Services</a>
-    <a href="/">Lobotomy Services</a>
-    <a href="/">Lobotomy Services</a>
+    <a href="/team">Team</a>
   </section>
 </nav>
 
