@@ -1,26 +1,28 @@
 @import 'tailwindcss';
 
 * {
-    font-family: "Poppins", sans-serif;
+	font-family: 'Poppins', sans-serif;
 }
 
 body {
-    background-color: var(--color-slate-950);
-    color: var(--color-white);
+	background-color: var(--color-slate-950);
+	color: var(--color-white);
 }
 
-h1, h2, h3 {
-    font-weight: 700;
+h1,
+h2,
+h3 {
+	font-weight: 700;
 }
 
 h1 {
-    font-size: var(--text-3xl);
+	font-size: var(--text-3xl);
 }
 
 h2 {
-    font-size: var(--text-2xl);
+	font-size: var(--text-2xl);
 }
 
 h3 {
-    font-size: var(--text-xl);
+	font-size: var(--text-xl);
 }
